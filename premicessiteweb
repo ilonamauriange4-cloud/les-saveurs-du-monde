@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="lessaveursdumonde.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+    <header>
+
+        <div class="presentation">
+
+            <nav class="menu-left">
+                <ul>
+                    <li><a href="#recettes">Recettes</a></li>
+                </ul>
+                <ul>
+                    <li><a href="#unecuisineauthentique">Une cuisine authentique</a></li>
+                </ul>
+            </nav>
+
+            <h1 class="titre-site">Les Saveurs du Monde</h1>
+
+            <nav class="menu-right">
+                <ul>
+                    <li><a href="#nosateliers">Nos ateliers</a></li>
+                </ul>
+                <ul>
+                    <li><a href="#noscontacts">Nos contacts</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <div>
+        <img class="image-principale" src="Images/epices_592527149.jpg" />
+    </div>
+    <section class="recettes" id="recettes">
+        <table class="lst-recettes">
+            <tr>
+                <td class="recette plat1-5">
+                    <a href="fondantauchocolat.html">
+                        <article>
+                            <h1>Le fondant au chocolat </h1>
+                            <p>Laëtitia</p>
+                            <img src="Images/laetitia claux aka maman.jpg" />
+                        </article>
+                    </a>
+                </td>
+                <td class="recette plat2-6">
+                    <a href="magretdecanard.html">
+                        <article>
+                            <h1>Le magret de canard</h1>
+                            <p>Kévin</p>
+                            <img src="Images/photo_kevin.png" />
+                        </article>
+                    </a>
+                </td>
+                <td class="recette plat3-4">
+                    <a href="semouleauxboulettesdeviandes.html">
+                        <article>
+                            <h1>Semoule accompagnée de boulettes de viandes</h1>
+                            <p>Roxane</p>
+                            <img src="Images/roxane.jpg" />
+                        </article>
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td class="recette plat3-4">
+                    <a href="naansetpakorasindiens.html">
+                        <article>
+                            <h1>Naans et pakoras</h1>
+                            <p>Ilona</p>
+                            <img src="Images/photo-ilo.jpg" />
+                        </article>
+                    </a>
+                </td>
+                <td class="recette plat1-5">
+                    <a href="Lentillesaucumin.html">
+                        <article>
+                            <h1>Lentilles au cumin</h1>
+                            <p>Hadji</p>
+                            <img src="Images/hadji.jpg" />
+                        </article>
+                    </a>
+                </td>
+                <td class="recette plat2-6">
+                    <a href="alloco.html">
+                        <article>
+                            <h1>Alloco</h1>
+                            <p>Aurélie</p>
+                            <img src="Images/Aurélie.png" />
+                        </article>
+                    </a>
+                </td>
+            </tr>
+        </table>
+    </section>
+
+    <blockquote class="citation">
+        <P>"La variété est la véritable épice de la vie qui lui donne toute sa saveur"-William Cowper</P>
+    </blockquote>
+    <!-- UNE CUISINE AUTHENTIQUE -->
+    <H1 class="uca"> Une cuisine authentique...</H1>
+    <section class="unecuisineauthentique" id="unecuisineauthentique">
+        <table>
+            <td class="one">
+                <article>
+                    <h2>...qui appelle au voyage</h2>
+                    <p>Depuis nos débuts, nous valorisons le voyage. À travers nos péripéties, nous avons appris à
+                        priviligier une ouverture d'esprit, à teste diverses techniques culinaires, de tous les
+                        horizons. Le voyage est pour nous la clé du partage et des sensations, car cela ouvre à une
+                        diversité de cultures, d'histoires humaines et authentique. N'hésitez pas à venir découvrir
+                        toutes
+                        les saveurs que nous proposons.</p>
+                </article>
+            </td>
+            <td class="two">
+                <article>
+                    <h2>...avec des valeurs responsables</h2>
+                    <p>Nous pronons des valeurs éthiques et écologiques. Nous rêvons d'un monde meilleur, et au delà de
+                        ce rêve, nous agissons. Nous avons un jardin potager dans lequel nous cultivons nos propres
+                        épices, et certains de nos ingrédients. Nous cuisinons aussi avec des invendus récoltés auprès
+                        de nos partenaires. grâce à la magie de nos cuisiniers, ces ingrédients sont transformés en
+                        oeuvre d'art.</p>
+                </article>
+            </td>
+            <td class="three">
+                <article>
+                    <h2>...dans un cocon chaleureux</h2>
+                    <p>La convivialité et notre devise. Le design de notre restaurant rappelle une atmosphère familiale.
+                        Tout le monde est le bienvenu, et certains évènements favorise des rencontres, des discussions,
+                        des moments partagés autout d'un repas convivial. Nous mettons à disposition des livres et des
+                        jeux de société</p>
+                </article>
+            </td>
+        </table>
+    </section>
+
+    <h1 class="NA">Nos ateliers</h1>
+
+    <section class="nosateliers" id="nosateliers">
+        <div>
+            <table>
+                <tr>
+                    <td class="A1">
+                        <img class="img1" src="Images/atelier.jpg">
+                        <img class="img1" src="Images/pizza.jpg">
+                        <img class="img2" src="Images/asiette.jpg">
+                        <img class="img2" src="Images/repaspartage.jpg">
+                    </td>
+                    <td class="A2">
+                        <p>Nous proposons des ateliers cuisines gratuits dans nos lieux, afin de rendre la cuisine
+                            accessible à n'importe qui. Petits et grands, tout le monde devrait avoir accès à la
+                            nourriture, qui est un besoin primaire. Nous aimerions agrandir notre tissu social et
+                            permettre de créer des rencontres, des moments de joies partagées, autour de grands repas, préparés avec amour par nos adhérents et cuisiniers.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="A3">
+                        <h1> Programmation ateliers</h1>
+                    </td>
+                    <td class="A4">
+                        <p>mercredi : 11h à 14h</p>
+                        <p>Vendredi : 18h à 21h</p>
+                        <p>samedi: 11h à 14h</p>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </section>
+
+    <footer>
+        <section id="noscontacts">
+            <div class="contacts">
+                <p>nos contacts</p>
+                <p>lessaveursdumonde@gmail.com</p>
+                <p>0644968329</p>
+            </div>
+        </section>
+    </footer>
+</body>
+
+</html>
